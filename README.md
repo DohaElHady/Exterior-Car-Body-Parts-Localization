@@ -19,7 +19,14 @@ A deep learning-based project that aims to localize 14 exterior car body parts i
 ## Repo Content 
 1.   How to use guide :  setup.md
 2.   Source code as jupyter notebook : BodyParts.ipynb
-3.   Discussion of results  : results.md 
+
+
+## Results
+The model was capable of detecting the body parts even the partially damaged.
+
+https://user-images.githubusercontent.com/86476979/219038155-2b06ce05-1b03-4029-9d80-a579961bc420.mp4
+
+
 
 ## Contributors
 [Doha ElHady](https://github.com/DohaElHady) - [Mohamed Elahl](https://github.com/MohamedElahl) - [Hassan Mohamed](https://github.com/Hsnmhmd) - [Karim Youssef](https://github.com/KarimYoussef98)
