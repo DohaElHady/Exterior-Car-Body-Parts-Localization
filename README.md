@@ -14,7 +14,7 @@ A deep learning-based project that aims to localize 14 exterior car body parts i
 1.   The data collected from sources 2-4 were manually annotated using [Microsoft VOTT](https://github.com/microsoft/VoTT).
 2.   Annotations from source 1 were edited and the labels out of intreset were removed.
 3.   Data was splitted over train, validation, and test.
-4.   Transfer learning was deployed as Yolov5 state-of-the-art object detection CNNs were tuned and trained.
+4.   Transfer learning was deployed as Yolov5 and Yolov8 state-of-the-art object detection CNNs were tuned and trained.
 
 ## Repo Content 
 1.   How to use guide :  setup.md
