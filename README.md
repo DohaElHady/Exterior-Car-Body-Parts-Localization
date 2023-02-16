@@ -1,7 +1,7 @@
 # Car Exterior Body Parts Localization
 
-A deep learning-based project that aims to localize 14 exterior car body parts in case of no or partial damage.
-
+A deep learning-based project that aims to localize 14 exterior car body parts in case of no or partial damage.<br>
+The project was implemented using both Yolov5 and Yolov8.
 
 ## Dataset Sources
 
@@ -17,8 +17,9 @@ A deep learning-based project that aims to localize 14 exterior car body parts i
 4.   Transfer learning was deployed as Yolov5 and Yolov8 state-of-the-art object detection CNNs were tuned and trained.
 
 ## Repo Content 
-1.   How to use guide :  setup.md
-2.   Source code as jupyter notebook : BodyParts.ipynb
+1.   How to use guide :  [setup.md](https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization/blob/main/setup.md)
+2.   Source code as jupyter notebook : [BodyParts.ipynb](https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization/blob/main/BodyParts.ipynb)
+3.   Detailed compare between Yolov8 and Yolov5 results : [results_discussion.md](https://github.com/DohaElHady/Exterior-Car-Body-Parts-Localization/blob/main/results_discussion.md)
 
 
 ## Results
